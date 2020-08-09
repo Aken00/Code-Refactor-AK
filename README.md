@@ -11,19 +11,19 @@ SO THAT our own site is optimized for search engines
 
 ## Screenshots
 
-<img src= "assets/images/Horiseon-sceenshot-1.png" width= "300">
+<img src= "assets/images/Horiseon-screenshot-1.png" width= "300">
 
-<img src= "assets/images/Horiseon-sceenshot-3.png" width= "300">
+<img src= "assets/images/Horiseon-screenshot-2.png" width= "300">
 
-<img src= "assets/images/Horiseon-sceenshot-2.png" width= "300">
+<img src= "assets/images/Horiseon-screenshot-3.png" width= "300">
 
-![](assets/images/Horiseon-sceenshot-1.png)
-
-
-![](assets/images/Horiseon-sceenshot-2.png)
+![](assets/images/Horiseon-screenshot-1.png)
 
 
-![](assets/images/Horiseon-sceenshot-3.png)
+![](assets/images/Horiseon-screenshot-2.png)
+
+
+![](assets/images/Horiseon-screenshot-3.png)
 
 ## Link
 https://aken00.github.io/Code-Refactor-AK 
