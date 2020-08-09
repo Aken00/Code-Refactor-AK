@@ -11,10 +11,11 @@ SO THAT our own site is optimized for search engines
 
 ## Screenshot
 
-![screenshot](./Horiseon-screenshot1)
+![screenshot](/relative/path/to/img.png?raw=true "Horiseon-screenshot1)
 
-![screenshot](./Horiseon-screenshot2)
+![screenshot](/relative/path/to/img.png?raw=true "Horiseon-screenshot2)
 
-![screenshot](./Horiseon-screenshot3)
+![screenshot](/relative/path/to/img.png?raw=true "Horiseon-screenshot3)
 
-![link](https://aken00.github.io/Code-Refactor-AK/)
+## Link
+https://aken00.github.io/Code-Refactor-AK 
