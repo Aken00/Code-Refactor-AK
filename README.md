@@ -9,12 +9,15 @@ AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-## Screenshot
+## Screenshots
 
+<img src= "assets/images/Horiseon-sceenshot-1.png" width= "100">
 ![](assets/images/Horiseon-sceenshot-1.png)
 
+<img src= "assets/images/Horiseon-sceenshot-2.png" width= "100">
 ![](assets/images/Horiseon-sceenshot-2.png)
 
+<img src= "assets/images/Horiseon-sceenshot-3.png" width= "100">
 ![](assets/images/Horiseon-sceenshot-3.png)
 
 ## Link
