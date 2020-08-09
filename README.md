@@ -11,11 +11,6 @@ SO THAT our own site is optimized for search engines
 
 ## Screenshots
 
-<img src= "assets/images/Horiseon-screenshot-1.png" width= "300">
-
-<img src= "assets/images/Horiseon-screenshot-2.png" width= "300">
-
-<img src= "assets/images/Horiseon-screenshot-3.png" width= "300">
 
 ![](assets/images/Horiseon-screenshot-1.png)
 
